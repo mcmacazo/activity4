@@ -1,6 +1,6 @@
 # Hypotenuse Calculator
 
-# Description
+## Description
 
 This program finds the hypotenuse of a right triangle. The user types in the two shorter sides and the program uses the Pythagorean theorem (c = square root of a² + b²) with the math library to get the answer.
 
